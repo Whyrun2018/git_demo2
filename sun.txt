@@ -1,0 +1,8 @@
+这是一个新的文件，sun.txt
+public class A {
+    static {
+    	System.out.println("hello。txt");
+    }
+
+}
+
